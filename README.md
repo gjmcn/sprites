@@ -11,3 +11,9 @@ A collection of sprite sheets (and the individual images) that are useful for ex
 * shapes: [iconsDB](https://www.iconsdb.com/)
 * spheres: [Athile](https://opengameart.org/users/athile)
 * ProFontWindows (bitmap text): [Carl Osterwald](https://www.fontspace.com/carl-osterwald)
+
+To use the sprites, either download/clone this repository, or access individual files by URL:
+
+* sprite sheet example:<br>https://cdn.jsdelivr.net/gh/gjmcn/sprites/sprite-sheets/outside.json
+
+* image example:<br>https://cdn.jsdelivr.net/gh/gjmcn/sprites/images/outside/grass.png

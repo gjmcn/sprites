@@ -10,7 +10,10 @@ A collection of sprite sheets (and the individual images) that are useful for ex
   * all others: [Pipoya](https://pipoya.itch.io/)   
 * shapes: [iconsDB](https://www.iconsdb.com/)
 * spheres: [Athile](https://opengameart.org/users/athile)
-* ProFontWindows (bitmap text): [Carl Osterwald](https://www.fontspace.com/carl-osterwald)
+* bitmap fonts (48px, limited character set):
+  * Hack (regular): [Chris Simpkins](https://www.fontspace.com/hack-font-f22301)
+  * Playfair (display, regular): [Claus Eggers Sørensen](https://www.fontspace.com/playfair-display-font-f44531) 
+  * Swansea (regular): [Roger White](https://www.fontspace.com/swansea-font-f5873)
 
 To use the sprites, either download/clone this repository, or access individual files by URL:
 

@@ -21,3 +21,5 @@ To use the sprites, either download/clone this repository, or access individual 
 * sprite sheet example:<br>https://cdn.jsdelivr.net/gh/gjmcn/sprites/sprite-sheets/outside.json
 
 * image example:<br>https://cdn.jsdelivr.net/gh/gjmcn/sprites/images/outside/grass.png
+
+_Note: ignore the `misc` directory. Anything in `misc` is likely to be rough, temporary, about to change, ..._

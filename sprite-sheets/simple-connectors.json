@@ -148,7 +148,7 @@
   "meta": {
     "app": "http://free-tex-packer.com",
     "version": "0.6.7",
-    "image": "connectors.png",
+    "image": "simple-connectors.png",
     "format": "RGBA8888",
     "size": {
       "w": 396,

@@ -4,12 +4,12 @@ A collection of sprite sheets (and the individual images) that are useful for ex
 
 * bubble cars: [Gjmcn](https://github.com/gjmcn)
 * cat-walk: [Pipoya](https://pipoya.itch.io/)
-* connectors: [Gjmcn](https://github.com/gjmcn)
 * outside:
   * sprite names `nature-...`: [Stealthix](https://stealthix.itch.io/)
   * bubble car, wolf and deer: [Gjmcn](https://github.com/gjmcn)
   * all others: [Pipoya](https://pipoya.itch.io/)   
 * shapes: [iconsDB](https://www.iconsdb.com/)
+* simple-connectors: [Gjmcn](https://github.com/gjmcn)
 * spheres: [Athile](https://opengameart.org/users/athile)
 * terrain: [Stealthix](https://stealthix.itch.io/)
 * bitmap fonts (48px and 96px; limited character set):

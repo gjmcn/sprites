@@ -4,7 +4,7 @@ A collection of sprite sheets (and the individual images) that are useful for ex
 
 * bubble cars: [Gjmcn](https://github.com/gjmcn)
 * cat-walk: [Pipoya](https://pipoya.itch.io/)
-* connector-tiles: [Gjmcn](https://github.com/gjmcn)
+* connector-sets: [Gjmcn](https://github.com/gjmcn)
 * outside:
   * sprite names `nature-...`: [Stealthix](https://stealthix.itch.io/)
   * bubble car, wolf and deer: [Gjmcn](https://github.com/gjmcn)
